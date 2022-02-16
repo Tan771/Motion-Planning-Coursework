@@ -10,7 +10,7 @@ d. A-star
 2. Sampling Based Search Algorithms
 a. PRM
 b. RRT
-c. RRT^*
+c. RRT*
 d. RRT-Connect
 
 3. Path planning with kinematic Constraints
