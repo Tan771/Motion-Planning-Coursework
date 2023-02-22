@@ -16,18 +16,18 @@ Work done under the RBE550 Motion Planning Course at Worcester Polytechnic Insti
 
 **a. BFS**
 <p align="center">
-  <img width="320" alt="image" src="https://user-images.githubusercontent.com/53274639/155463452-6ec6ca86-cce5-466e-932d-91703bb8a274.png">
+  <img width="420" alt="image" src="https://user-images.githubusercontent.com/53274639/155463452-6ec6ca86-cce5-466e-932d-91703bb8a274.png">
 </p>
 
 
 **b. DFS**
 <p align="center">
-  <img width="311" alt="image" src="https://user-images.githubusercontent.com/53274639/155463478-9f802b9a-6ef0-453d-9c7c-4637f2225541.png">
+  <img width="420" alt="image" src="https://user-images.githubusercontent.com/53274639/155463478-9f802b9a-6ef0-453d-9c7c-4637f2225541.png">
 </p>
 
 **c. Dijkstra**
 <p align="center">
-  <img width="311" alt="image" src="https://user-images.githubusercontent.com/53274639/155463500-653acce6-b015-4ee4-ad21-76eca6db2cac.png">
+  <img width="420" alt="image" src="https://user-images.githubusercontent.com/53274639/155463500-653acce6-b015-4ee4-ad21-76eca6db2cac.png">
 </p>
 
 ---
@@ -57,20 +57,20 @@ Work done under the RBE550 Motion Planning Course at Worcester Polytechnic Insti
 
 ### a. Differential Drive
 <p align="center">
-  <img width="418" alt="image" src="https://user-images.githubusercontent.com/53274639/155463635-e2c1b86e-60ef-4bf1-8f13-5bf122e50ac9.png">
+  <img width="420" alt="image" src="https://user-images.githubusercontent.com/53274639/155463635-e2c1b86e-60ef-4bf1-8f13-5bf122e50ac9.png">
 </p>
 
 
 ### b. Car
 <p align="center">
-  <img width="361" alt="image" src="https://user-images.githubusercontent.com/53274639/155463654-fb24c700-3fec-4ac1-afe9-7a2be1815700.png">
+  <img width="420" alt="image" src="https://user-images.githubusercontent.com/53274639/155463654-fb24c700-3fec-4ac1-afe9-7a2be1815700.png">
 </p>
 
 
 
 ### c. Car with trailer
 <p align="center">
-  <img width="365" alt="image" src="https://user-images.githubusercontent.com/53274639/155463682-244464cf-50d5-4c50-bd52-366f6fe0a9ce.png">
+  <img width="420" alt="image" src="https://user-images.githubusercontent.com/53274639/155463682-244464cf-50d5-4c50-bd52-366f6fe0a9ce.png">
 </p>
 
 ---
@@ -79,11 +79,11 @@ Work done under the RBE550 Motion Planning Course at Worcester Polytechnic Insti
 
 **Output of RRT vs RRT***
 <p align="center">
-  <img width="264" alt="image" src="https://user-images.githubusercontent.com/53274639/155463794-86651fed-b1c7-4795-839e-c8dc8b0b22b2.png">
+  <img width="420" alt="image" src="https://user-images.githubusercontent.com/53274639/155463794-86651fed-b1c7-4795-839e-c8dc8b0b22b2.png">
 </p>
 
 **Output of the path optimization techniques**
 <p align="center">
-  <img width="876" alt="image" src="https://user-images.githubusercontent.com/53274639/155463879-2e513581-06c9-4f00-9cf0-eda94887e773.png">
+  <img width="420" alt="image" src="https://user-images.githubusercontent.com/53274639/155463879-2e513581-06c9-4f00-9cf0-eda94887e773.png">
 </p>
 
