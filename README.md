@@ -15,9 +15,9 @@ Work done under the RBE550 Motion Planning Course at Worcester Polytechnic Insti
 
 
 **a. BFS**
-
+<p align="center">
 <center><img width="311" alt="image" src="https://user-images.githubusercontent.com/53274639/155463452-6ec6ca86-cce5-466e-932d-91703bb8a274.png"></center>
-
+</p>
 
 
 **b. DFS**
