@@ -4,10 +4,10 @@ Work done under the RBE550 Motion Planning Course at Worcester Polytechnic Insti
 # Table of Contents 
 |Index| Title|
 |:---|---:|
-|1.| Grid Based Search Algorithms(#grid)|
-|2.| Sampling Based Search Algorithms(#sample)|
-|3.| Path planning with kinematic Constraints(#const)|
-|4.|  Quadruped Robot Motion Planning for Search and Rescue Mission(#Quad)|
+|1.| [Grid Based Search Algorithms](#grid)|
+|2.| [Sampling Based Search Algorithms](#sample)|
+|3.| [Path planning with kinematic Constraints](#const)|
+|4.| [Quadruped Robot Motion Planning for Search and Rescue Mission](#Quad)|
 
 ---
 
