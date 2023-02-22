@@ -29,6 +29,7 @@ Work done under the RBE550 Motion Planning Course at Worcester Polytechnic Insti
 <p align="center">
   <img width="311" alt="image" src="https://user-images.githubusercontent.com/53274639/155463500-653acce6-b015-4ee4-ad21-76eca6db2cac.png">
 </p>
+
 ---
 
 ## 2. Sampling Based Search Algorithms <a name="sample"></a>
@@ -42,12 +43,13 @@ Work done under the RBE550 Motion Planning Course at Worcester Polytechnic Insti
 
 **c. RRT***
 
-
+---
 
 **6D RRT-Connect for moving a Soda Can from inside of a container via two windows with obstacle avoidance**
 <p align="center">
   <img width="420" alt="image" src="https://user-images.githubusercontent.com/53274639/155463973-8ae0fb23-b545-4d88-bab2-1d36a38848a4.png">
 </p>
+
 ---
 
 ## 3. Path planning with kinematic Constraints <a name="const"></a>
