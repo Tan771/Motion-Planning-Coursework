@@ -46,7 +46,7 @@ Work done under the RBE550 Motion Planning Course at Worcester Polytechnic Insti
 
 **6D RRT-Connect for moving a Soda Can from inside of a container via two windows with obstacle avoidance**
 <p align="center">
-  <img width="234" alt="image" src="https://user-images.githubusercontent.com/53274639/155463973-8ae0fb23-b545-4d88-bab2-1d36a38848a4.png">
+  <img width="420" alt="image" src="https://user-images.githubusercontent.com/53274639/155463973-8ae0fb23-b545-4d88-bab2-1d36a38848a4.png">
 </p>
 ---
 
