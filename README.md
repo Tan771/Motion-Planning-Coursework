@@ -7,7 +7,7 @@ Work done under the RBE550 Motion Planning Course at Worcester Polytechnic Insti
 |1.| [Grid Based Search Algorithms](#grid)|
 |2.| [Sampling Based Search Algorithms](#sample)|
 |3.| [Path planning with kinematic Constraints](#const)|
-|4.| [Quadruped Robot Motion Planning for Search and Rescue Mission](#Quad)|
+|4.| [Quadruped Robot Motion Planning for Search and Rescue Mission](#quad)|
 
 ---
 
@@ -62,9 +62,13 @@ Work done under the RBE550 Motion Planning Course at Worcester Polytechnic Insti
 
 ---
 
-# Quadruped Robot Motion Planning for Search and Rescue Mission <a name="Quad"></a>
+# Quadruped Robot Motion Planning for Search and Rescue Mission <a name="quad"></a>
+
+**Output of RRT vs RRT* **
 <center><img width="264" alt="image" src="https://user-images.githubusercontent.com/53274639/155463794-86651fed-b1c7-4795-839e-c8dc8b0b22b2.png"></center>
 
-<center><img width="876" alt="image" src="https://user-images.githubusercontent.com/53274639/155463879-2e513581-06c9-4f00-9cf0-eda94887e773.png"></center>
+**Output of the path optimization techniques**
 
+<center><img width="876" alt="image" src="https://user-images.githubusercontent.com/53274639/155463879-2e513581-06c9-4f00-9cf0-eda94887e773.png"></center>
+**left:(Node Pruning) Right:(Curve Fitting)**
 ---
