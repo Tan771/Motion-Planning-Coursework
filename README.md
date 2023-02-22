@@ -1,21 +1,22 @@
 # Motion-Planning-Coursework
 Work done under the RBE550 Motion Planning Course at Worcester Polytechnic Institute
 
+|Section| Title|
+|:---|---:|
+|1.| Grid Based Search Algorithms|
 ---
 
 ## 1. Grid Based Search Algorithms
 
----
 
-### a. BFS
-<center><img width="326" alt="image" src="https://user-images.githubusercontent.com/53274639/155463452-6ec6ca86-cce5-466e-932d-91703bb8a274.png"></center>
+**a. BFS**
+[!BFS](https://user-images.githubusercontent.com/53274639/155463452-6ec6ca86-cce5-466e-932d-91703bb8a274.png)
 
----
+
 
 ### b. DFS
-<ceter><img width="338" alt="image" src="https://user-images.githubusercontent.com/53274639/155463478-9f802b9a-6ef0-453d-9c7c-4637f2225541.png"></center>
+[!DFS](https://user-images.githubusercontent.com/53274639/155463478-9f802b9a-6ef0-453d-9c7c-4637f2225541.png)
 
----
 ### c. Dijkstra
 <center><img width="311" alt="image" src="https://user-images.githubusercontent.com/53274639/155463500-653acce6-b015-4ee4-ad21-76eca6db2cac.png"></center>
 
