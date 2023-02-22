@@ -84,6 +84,6 @@ Work done under the RBE550 Motion Planning Course at Worcester Polytechnic Insti
 
 **Output of the path optimization techniques**
 <p align="center">
-  <img width="420" alt="image" src="https://user-images.githubusercontent.com/53274639/155463879-2e513581-06c9-4f00-9cf0-eda94887e773.png">
+  <img width="820" alt="image" src="https://user-images.githubusercontent.com/53274639/155463879-2e513581-06c9-4f00-9cf0-eda94887e773.png">
 </p>
 
