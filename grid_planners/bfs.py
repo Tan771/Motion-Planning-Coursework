@@ -21,7 +21,7 @@ class BFS(GridBasedPlanners):
                 found = True
                 break
 
-            for neighbour in self.four_neighbours:
+            for neighbour in self.eight_neighbours:
                 x_ = node.x + neighbour[0]
                 y_ = node.y + neighbour[1]
 
