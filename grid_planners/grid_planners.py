@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from GridGenerator import TetrisGridGenerator
+from grid_planners import TetrisGridGenerator
 import numpy as np 
 from queue import Queue
 import time
