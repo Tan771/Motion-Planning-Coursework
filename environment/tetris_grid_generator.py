@@ -27,6 +27,7 @@ class TetrisGridGenerator:
 
         @return: Generated Tetris-like grid.
         """
+        obs_list = []
         if not (0 <= packing_percentage <= 100):
             raise ValueError("Packing percentage should be between 0 and 100.")
 
@@ -41,10 +42,11 @@ class TetrisGridGenerator:
 
                 if self.grid[x][y] == 0:
                     self.grid[x][y] = 1
+                    obs_list.append([x,y])
                     break
         
 
-        return self.grid
+        return self.grid, obs_list
 
     def plot_grid(self, grid):
         """

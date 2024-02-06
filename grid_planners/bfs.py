@@ -12,9 +12,11 @@ class BFS(GridBasedPlanners):
         found = False
         node_queue.put(start)
         visited.add((start.x,start.y))
+        vis_list = []
         
         while not node_queue.empty():
             node = node_queue.get()
+            vis_list.append([node.x,node.y])
 
             if node == goal:
                 goal = node
@@ -36,4 +38,4 @@ class BFS(GridBasedPlanners):
             print(f"Failed to find a path and took {time.perf_counter() - start_time} secs")
             path = []
 
-        return path
+        return path, vis_list

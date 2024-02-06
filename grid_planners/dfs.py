@@ -10,12 +10,12 @@ class DFS(GridBasedPlanners):
         start_time = time.perf_counter()
         node_stack = [start]
         visited_set = set()
-
+        vis_list = []
         found = False
 
         while len(node_stack):
             node = node_stack.pop()
-
+            vis_list.append([node.x,node.y])
             if node == goal:
                 goal = node
                 found = True
@@ -36,4 +36,4 @@ class DFS(GridBasedPlanners):
             path = []
             print(f"Failed to find a path")
 
-        return path
+        return path, list(vis_list)
