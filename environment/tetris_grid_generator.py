@@ -2,6 +2,7 @@ import numpy as np
 import random
 import matplotlib.pyplot as plt 
 
+
 class TetrisGridGenerator:
     """
     @brief Class for generating and visualizing Tetris-like grids.
